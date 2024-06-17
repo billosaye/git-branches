@@ -1,1 +1,1 @@
-"This are the contents of file 3".
+"Alient 3".
